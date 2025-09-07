@@ -1,4 +1,8 @@
 ## Hi there 👋
+- 🌱 I’m currently learning more about GitHub so that I can use it to manage code for my thesis work.
+- 📫 How to reach me: megulbranson@alaska.edu
+- 😄 Pronouns: she/her
+
 
 <!--
 **megulbranson/megulbranson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
